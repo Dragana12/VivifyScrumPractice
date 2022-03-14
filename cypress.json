@@ -1,1 +1,8 @@
-{}
+{
+ "baseUrl" : "https://cypress.vivifyscrum-stage.com/login",
+
+ "env": {
+    "testUserEmail": "vivify@gmail.com",
+    "testUserPass": "Zoetheartist23"
+    }
+}
